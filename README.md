@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhuranjan-shukla/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wordpress.com/home/wantitgetitt.wordpress.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hnji.shuklaji/)
+</p>
+
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhuranjan Shukla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjan Shukla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhuranjann&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjann&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood **Master Data Analyst, AI Enthusiast, and Prompt Engineer**. Some say I’m also a **motivator and a great friend**; I like to think I’m just someone who knows how to make **data (and people) feel understood**. I’m based in **Hyderabad, India**, currently working with **TCS, Thane - Maharashtra**, and before that, I had stints at **Verisys Global and Thomson Reuters India**, both in Hyderabad.
@@ -15,8 +17,6 @@ My expertise? Think of me as the Swiss Army knife for **Supply Chain Management 
 Now, here’s the twist — **I’m not from a traditional IT background**. Yet, my **curiosity** for the **tech side** has always been sky-high. I tinker with my **WordPress website, upload experiments to GitHub, and occasionally lose track of time while deep-diving into prompt engineering or coding**.
 
 In my so-called “free time,” **you’ll find me at the gym**, refining my **resume-building skills**, or having spirited conversations with friends about… well, anything under the sun. My life motto? **Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list**..  
-
----
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
