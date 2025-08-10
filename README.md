@@ -25,10 +25,10 @@ In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working as content creator;
-- 🚀 I’m learning A.I Magics;
+- 👨🏻‍💻 I’m currently working as Master Data Analyst;
+- 🚀 I’m learning A.I. Magics;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: info@satishdhawale.com
+- 📫 How to reach me: madhuranjann@gmail.com
 
 
 </br>
@@ -41,10 +41,4 @@ In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my 
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishdhawale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishdhawale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
