@@ -28,6 +28,7 @@ In my so-called “free time,” **you’ll find me at the gym**, refining my **
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: madhuranjann@gmail.com and +91 9542873587
 
+---
 ### 📊 GitHub Stats
 ![Madhuranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuranjann&show_icons=true&theme=tokyonight)  
 
