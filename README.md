@@ -5,11 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hnji.shuklaji/)
 </p>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhuranjann&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjann&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood **Master Data Analyst, AI Enthusiast, and Prompt Engineer**. Some say I’m also a **motivator and a great friend**; I like to think I’m just someone who knows how to make **data (and people) feel understood**. I’m based in **Hyderabad, India**, currently working with **TCS, Thane - Maharashtra**, and before that, I had stints at **Verisys Global and Thomson Reuters India**, both in Hyderabad.
 
 My expertise? Think of me as the Swiss Army knife for **Supply Chain Management and SAP Material Management Module**. I craft technical **documents, SOPs, job aids, work instructions**, and even design those “master forms” nobody loves to fill but everybody needs. With **8 years** of hands-on **SAP ERP experience**, I’ve mastered the interface so well that sometimes it feels like it should be paying me rent.
