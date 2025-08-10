@@ -1,7 +1,7 @@
 
 Wanna know me....? Come in please
 
-### Hi there, I'm <a href="https://skst.in" target="_blank">Madhuranjan Kumar Shukla</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p> ### Hi there, I'm <a href="https://skst.in" target="_blank">Madhuranjan Kumar Shukla</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhuranjan-shukla/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wordpress.com/home/wantitgetitt.wordpress.com)
@@ -34,13 +34,13 @@ Wanna know me....? Come in please
 
 # 👋 Hi, I’m Madhuranjan Kumar Shukla  
 
-**Master Data Analyst | AI Enthusiast | Prompt Engineer | SAP Pro | Lifelong Learner**  
+Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood **Master Data Analyst, AI Enthusiast, and Prompt Engineer**. Some say I’m also a **motivator and a great friend**; I like to think I’m just someone who knows how to make **data (and people) feel understood**. I’m based in **Hyderabad, India**, currently working with **TCS, Thane - Maharashtra**, and before that, I had stints at **Verisys Global and Thomson Reuters India**, both in Hyderabad.
 
-Welcome to my little corner of GitHub!  
-I spend my days working with **SAP ERP** (Supply Chain & Material Management), crafting **SOPs, job aids, master forms**, and translating complex processes into clean, usable solutions.  
+My expertise? Think of me as the Swiss Army knife for **Supply Chain Management and SAP Material Management Module**. I craft technical **documents, SOPs, job aids, work instructions**, and even design those “master forms” nobody loves to fill but everybody needs. With **8 years** of hands-on **SAP ERP experience**, I’ve mastered the interface so well that sometimes it feels like it should be paying me rent.
 
-💡 **Not from a traditional IT background** — but I’ve dived headfirst into coding, **prompt engineering**, and building projects on **WordPress** & **GitHub**.  
-🚀 Currently at **TCS**, previously with **Verisys Global** & **Thomson Reuters India**.  
+Now, here’s the twist — **I’m not from a traditional IT background**. Yet, my **curiosity** for the **tech side** has always been sky-high. I tinker with my **WordPress website, upload experiments to GitHub, and occasionally lose track of time while deep-diving into prompt engineering or coding**.
+
+In my so-called “free time,” **you’ll find me at the gym**, refining my **resume-building skills**, or having spirited conversations with friends about… well, anything under the sun. My life motto? **Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list**..  
 
 ---
 
@@ -68,6 +68,6 @@ I spend my days working with **SAP ERP** (Supply Chain & Material Management), c
 
 ### 📚 Life Motto
 *"Never stop learning — because boring is not on the to-do list."*  
-
+</p>
 📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/madhuranjan-shukla/) | [Portfolio](#)  
 
