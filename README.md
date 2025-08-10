@@ -1,6 +1,3 @@
-
-Wanna know me....? Come in please
-
 <p> ### Hi there, I'm <a href="https://skst.in" target="_blank">Madhuranjan Kumar Shukla</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhuranjan-shukla/)
@@ -18,13 +15,6 @@ Wanna know me....? Come in please
 - 📫 How to reach me: madhuranjann@gmail.com and +91 9542873587
 
 </br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhuranjan Shukla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -69,5 +59,5 @@ In my so-called “free time,” **you’ll find me at the gym**, refining my **
 ### 📚 Life Motto
 *"Never stop learning — because boring is not on the to-do list."*  
 </p>
-📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/madhuranjan-shukla/) | [Portfolio](#)  
+📬 **Let’s connect:** [LinkedIn] (https://www.linkedin.com/in/madhuranjan-shukla/) | [Portfolio] (https://github.com/madhuranjann/My-Digital-Porfolio) 
 
