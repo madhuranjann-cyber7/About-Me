@@ -1,5 +1,4 @@
 # About_Me
-All about me
 
 <p>Hi there, I'm <a href="https://skst.in" target="_blank">Madhuranjan Kumar Shukla</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
