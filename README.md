@@ -8,7 +8,6 @@ Wanna know me....? Come in please
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hnji.shuklaji/)
 
 
-
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
 Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood <b>Master Data Analyst, AI Enthusiast, and Prompt Engineer<b>. Some say I’m also a <b>motivator and a great friend<b>; I like to think I’m just someone who knows how to make <b>data (and people) feel understood<b>. I’m based in <b>Hyderabad, India<b>, currently working with <b>TCS, Thane - Maharashtra<b>, and before that, I had stints at <b>Verisys Global and Thomson Reuters India<b>, both in Hyderabad.
@@ -20,16 +19,12 @@ Now, here’s the twist — <b>I’m not from a traditional IT background<b>. Ye
 In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my <b>resume-building skills<b>, or having spirited conversations with friends about… well, anything under the sun. My life motto? <b>Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list<b>.
 
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
-  
-
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working as Master Data Analyst;
 - 🚀 I’m learning A.I. Magics;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: madhuranjann@gmail.com
-
+- 📫 How to reach me: madhuranjann@gmail.com and +91 9542873587
 
 </br>
 
@@ -40,5 +35,8 @@ In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my 
 ```
 <!--END_SECTION:waka-->
 
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishdhawale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishdhawale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
