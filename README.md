@@ -40,3 +40,43 @@ In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjan Shukla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+
+# 👋 Hi, I’m Madhuranjan Kumar Shukla  
+
+**Master Data Analyst | AI Enthusiast | Prompt Engineer | SAP Pro | Lifelong Learner**  
+
+Welcome to my little corner of GitHub!  
+I spend my days working with **SAP ERP** (Supply Chain & Material Management), crafting **SOPs, job aids, master forms**, and translating complex processes into clean, usable solutions.  
+
+💡 **Not from a traditional IT background** — but I’ve dived headfirst into coding, **prompt engineering**, and building projects on **WordPress** & **GitHub**.  
+🚀 Currently at **TCS**, previously with **Verisys Global** & **Thomson Reuters India**.  
+
+---
+
+### 📊 GitHub Stats
+![Madhuranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+### 📈 Activity Graph
+![Madhuranjan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)  
+
+---
+
+### 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6)  
+
+---
+
+### 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat)  
+
+---
+
+### 📚 Life Motto
+*"Never stop learning — because boring is not on the to-do list."*  
+
+📬 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/madhuranjan-shukla/) | [Portfolio](#)  
+
