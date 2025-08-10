@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hnji.shuklaji/)
 </p>
 <p style="text-align: center;">
-  <img src="https://github.com/madhuranjann-cyber7/My-Digital-Port-Folio/blob/450281c117ee3cde5d50da42c29b8f59543b3703/564005cd-fcc0-4548-af25-37faf1c9fec5.jpg" alt="profile photo" width="200" />
+  <img src="https://github.com/madhuranjann-cyber7/My-Digital-Port-Folio/blob/450281c117ee3cde5d50da42c29b8f59543b3703/564005cd-fcc0-4548-af25-37faf1c9fec5.jpg" alt="profile photo" width="200">
 </p>
 
 <br> </br>
