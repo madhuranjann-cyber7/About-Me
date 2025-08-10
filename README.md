@@ -11,7 +11,14 @@ Wanna know me....? Come in please
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mumbai. I founded Skill Course, an online platform where people can learn about computers. I also run several YouTube channels, including "Learn More," which boasts over 2 million subscribers and millions of views.
+Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood <b>Master Data Analyst, AI Enthusiast, and Prompt Engineer<b>. Some say I’m also a <b>motivator and a great friend<b>; I like to think I’m just someone who knows how to make <b>data (and people) feel understood<b>. I’m based in <b>Hyderabad, India<b>, currently working with <b>TCS, Thane - Maharashtra<b>, and before that, I had stints at <b>Verisys Global and Thomson Reuters India<b>, both in Hyderabad.
+
+My expertise? Think of me as the Swiss Army knife for <b>Supply Chain Management and SAP Material Management Module<b>. I craft technical <b>documents, SOPs, job aids, work instructions<b>, and even design those “master forms” nobody loves to fill but everybody needs. With <b>8 years<b> of hands-on <b>SAP ERP experience<b>, I’ve mastered the interface so well that sometimes it feels like it should be paying me rent.
+
+Now, here’s the twist — <b>I’m not from a traditional IT background<b>. Yet, my <b>curiosity<b> for the <b>tech side<b> has always been sky-high. I tinker with my <b>WordPress website, upload experiments to GitHub, and occasionally lose track of time while deep-diving into prompt engineering or coding<b>.
+
+In my so-called “free time,” <b>you’ll find me at the gym<b>, refining my <b>resume-building skills<b>, or having spirited conversations with friends about… well, anything under the sun. My life motto? <b>Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list<b>.
+
 
 <img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
   
