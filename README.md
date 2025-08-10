@@ -32,8 +32,6 @@ In my so-called “free time,” **you’ll find me at the gym**, refining my **
 ### 📊 GitHub Stats
 ![Madhuranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuranjann&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjann&layout=compact&theme=tokyonight)  
-Bhojpuri and Maithili at Home, English at work, and Telugu and Hindi with friends 
 ---
 
 ### 📈 Activity Graph
@@ -56,3 +54,4 @@ Bhojpuri and Maithili at Home, English at work, and Telugu and Hindi with friend
 </p>
 📬 **Let’s connect:** [LinkedIn] (https://www.linkedin.com/in/madhuranjan-shukla/) | [Portfolio] (https://github.com/madhuranjann/My-Digital-Porfolio) 
 
+---
