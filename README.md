@@ -54,24 +54,24 @@ I spend my days working with **SAP ERP** (Supply Chain & Material Management), c
 ---
 
 ### 📊 GitHub Stats
-![Madhuranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Madhuranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhuranjann&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjann&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📈 Activity Graph
-![Madhuranjan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)  
+![Madhuranjan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhuranjann&theme=tokyo-night)  
 
 ---
 
 ### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Madhuranjann&theme=onedark&row=1&column=6)  
 
 ---
 
 ### 👀 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=Madhuranjann&label=Profile%20views&color=blue&style=flat)  
 
 ---
 
