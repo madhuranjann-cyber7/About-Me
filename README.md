@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <Img src="https://github.com/madhuranjann-cyber7/My-Digital-Port-Folio/blob/450281c117ee3cde5d50da42c29b8f59543b3703/564005cd-fcc0-4548-af25-37faf1c9fec5.jpg" alt="profile photo" Width="100" align="center"
+  <Img src="https://github.com/madhuranjann-cyber7/My-Digital-Port-Folio/blob/450281c117ee3cde5d50da42c29b8f59543b3703/564005cd-fcc0-4548-af25-37faf1c9fec5.jpg" alt="profile photo" Width="200" align="center"
 </p>
   <br> </br>
 Hi, I’m Madhuranjan Kumar Shukla — your friendly neighborhood **Master Data Analyst, AI Enthusiast, and Prompt Engineer**. Some say I’m also a **motivator and a great friend**; I like to think I’m just someone who knows how to make **data (and people) feel understood**. I’m based in **Hyderabad, India**, currently working with **TCS, Thane - Maharashtra**, and before that, I had stints at **Verisys Global and Thomson Reuters India**, both in Hyderabad.
