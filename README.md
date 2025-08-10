@@ -17,7 +17,7 @@ My expertise? Think of me as the Swiss Army knife for **Supply Chain Management 
 
 Now, here’s the twist — **I’m not from a traditional IT background**. Yet, my **curiosity** for the **tech side** has always been sky-high. I tinker with my **WordPress website, upload experiments to GitHub, and occasionally lose track of time while deep-diving into prompt engineering or coding**.
 
-In my so-called “free time,” **you’ll find me at the gym**, refining my **resume-building skills**, or having spirited conversations with friends about… well, anything under the sun. My life motto? **Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list**..  
+In my so-called “free time,” **you’ll find me at the gym**, refining my **resume-building skills**, or having spirited conversations with friends about… well, anything under the sun. My life motto? _Never stop learning — because the moment you do, life gets boring, and boring is not on my to-do list_..  
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
