@@ -3,19 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhuranjan-shukla/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://wordpress.com/home/wantitgetitt.wordpress.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hnji.shuklaji/)
-
-
-### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working as Master Data Analyst;
-- 🚀 I’m learning A.I. Magics;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: madhuranjann@gmail.com and +91 9542873587
-
-</br>
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madhuranjan Shukla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuranjan Shukla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
